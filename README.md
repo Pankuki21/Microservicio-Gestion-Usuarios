@@ -1,7 +1,8 @@
-# Feature: Mejora de Mensaje de Bienvenida
+# Feature: Estructura de Nueva Función
 
-**Estado:** En revisión (Pull Request pendiente) -> 07/04/2026
+Esta rama ha sido creada para preparar el entorno de desarrollo de la siguiente fase del microservicio.
 
-### Cambios realizados:
-* Se modificó el archivo `index.js`.
-* Se cambió el mensaje de respuesta del servidor.
+## 📌 Estado actual
+* **Rama:** `feature/nueva-funcion`
+* **Estado:** Pendiente pull request - 07/04/2026
+
