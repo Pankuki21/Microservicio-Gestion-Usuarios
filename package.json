@@ -1,0 +1,24 @@
+{
+  "name": "microservicio-gestion-usuarios",
+  "version": "1.0.0",
+  "description": "**Estudiante 1:** Francisca Acosta\r **Estudiante 2:** Cristian Garcia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pankuki21/Microservicio-Gestion-Usuarios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pankuki21/Microservicio-Gestion-Usuarios/issues"
+  },
+  "homepage": "https://github.com/Pankuki21/Microservicio-Gestion-Usuarios#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
