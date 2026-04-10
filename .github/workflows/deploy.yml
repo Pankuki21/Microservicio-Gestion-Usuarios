@@ -1,0 +1,17 @@
+name: Deploy Apache EC2
+
+on:
+  push:
+    branches:
+      - main
+      - develop
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Ejecutar mensaje
+        run: echo "Ejecutando"
