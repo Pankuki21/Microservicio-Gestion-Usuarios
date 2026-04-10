@@ -1,8 +1,14 @@
 const http = require('http');
+
 const server = http.createServer((req, res) => {
+
     res.writeHead(200, {'Content-Type': 'text/plain; charset=utf-8'});
     res.end('Microservicio de Gestión de Usuarios v1.1: Todos los sistemas listos.\n');
+
+    res.end('✅ Microservicio de Gestión de Usuarios: Operativo y Funcionando Hotfix Aplicado.\n');
 });
-server.listen(3000, () => {
-    console.log('Servidor corriendo en http://localhost:3000');
+
+const PORT = 3000;
+server.listen(PORT, () => {
+    console.log(`Servidor corriendo en http://localhost:${PORT}`);
 });
