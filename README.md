@@ -1,9 +1,9 @@
 
-#Microservicio de Gestión de Usuarios
+# Microservicio de Gestión de Usuarios
 
-##Integrantes
+## Integrantes
 **Estudiante 1:** Francisca Acosta
-**Estudiante 2:** Cristian Garcia
+**Estudiante 2:** Cristobal Garcia
 
 ## Estrategia de Ramificación
 Para este proyecto usamos el modelo **GitFlow**:
